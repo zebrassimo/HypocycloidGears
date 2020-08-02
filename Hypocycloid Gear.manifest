@@ -1,0 +1,14 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"addin",
+	"author":	"Rüdiger Koch-Kukies",
+	"description":	{
+		"":	""
+	},
+	"supportedOS":	"windows",
+	"editEnabled":	true,
+	"id":	"e6501899-945c-4f46-850a-3ddfef918e34",
+	"version":	"1.1",
+	"runOnStartup":	false,
+	"sourcewindows":	"Hypocycloid Gear.vcxproj"
+}
